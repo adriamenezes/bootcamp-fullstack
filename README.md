@@ -1,4 +1,10 @@
-# Bootcamp Desenvolvedor Full Stack - IGTI
+<h1 align="center">
+Bootcamp Desenvolvedor Full Stack - IGTI
+</h1>
+
+<h3 align="center">
+    <img alt="Full Stack Developer" src="https://user-images.githubusercontent.com/6156775/82163078-3a069580-987f-11ea-85ab-cbaf54b02868.png"/>
+</h3>
 
 Repositório destinado a armazenar os conhecimentos obtidos durante a realização do Bootcamp de Desenvolvedor Full Stack da IGTI
 
